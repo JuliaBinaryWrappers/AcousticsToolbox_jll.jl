@@ -1,0 +1,459 @@
+[[AcousticsToolbox]]
+arch = "aarch64"
+git-tree-sha1 = "bc05765549f11f41b5d87d700a3be37357817a37"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "12c0036e8b0f4dd6eb79c871db030944181dbb4755eeff1cb713daa9148a9232"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "aarch64"
+git-tree-sha1 = "94296ddeaa135bacc6574e1996a03825b7ee4c54"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "e5860c59c840f9c6d2bdff73923a41b26d3f582b8efc0bef3a90c45a1d461e5e"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "aarch64"
+git-tree-sha1 = "8f2a85553a3c18f23c62907a899199c370b66066"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "3391b48e6e6a4cb9dff084d2f058e6869e5426f89b979487cf8c68ee010accde"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "aarch64"
+git-tree-sha1 = "f2c0b13bfc048ab111d84c2c8de86e8584fcc85f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "654aa79d1cffb358d831ee2ef7209f8808dd40176153c2deaaf0e97688844c61"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "aarch64"
+git-tree-sha1 = "e0e6322212878b2445f5ee993e0b83297aff74f8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "94e7abaeefa13aead693084593113463bb3621acb52d4ff14628b3dfa710258b"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.aarch64-linux-musl-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "aarch64"
+git-tree-sha1 = "d2001bd111a3ad91c158e80a1e58c3e617631614"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "ada380c228d08fb1ea705d4a7c7806dace448bc6276eb787bc668701994feb6c"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.aarch64-linux-musl-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "aarch64"
+git-tree-sha1 = "31f8c0a5ac16ab257fcb27208b0479c2e264297b"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "f1306935a3cdb5e5da5acdd4f3ca4614def93bf2e43cb372c711fde93d345a7b"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.aarch64-linux-musl-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9f582662dff4c6c71f20fca4c4ca149b16b5703d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "ff830da340e41133faa887a75f7fe37494e4eb93aebc2e39d096840a218c2836"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c09e046254138510ed798e1cb9aa2ef84785f454"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "229f6b5ccd864fae22d667794ac5fa334e715276a789b806e8db0140dcb993ab"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "826cabb976ab763c71d18ffc17a0caca4d87645a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "3e65bab79880ba4049566e2a3f827e731211959fa9e535c6c2d6d1496dd193da"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b5739119705da207789b5dbc1cee871cff6c0692"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "c6e7c8aa29e346ccbcd5b0f8d4284bbfb734f7672cdeab90e57e07efc4dd7abd"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6bd40652dedb7cb08fc8784cb3c6084dea447c77"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "ac0a84d5743019117a69e7eb5161f54805ef09abb2547814c683987fb200f22a"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7adf1a776948d3a125b9c7c9b1c6472368e5347a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "36de8688fc69c46b0c0b73f99fcf2014a7507518dbc9d7ba55c026f84033d25b"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8e58d9c2c0aa0aae17492e08956740d35500e2c3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "b063b4e351a371172060906c6e993c7729465fbe46e6cd55f3448ac01d406035"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "545f56e90005290b3e0f44cbbbc1d972f7a02df1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "25c438cb6f08510fc166ef1b96f2b73cf7a878748ab6da3344f00edd0689f3cf"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2f12179b27cc862ff2d55eccf13b71bf4ffeb804"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "17c77e9e18d4f65efa2fa087b38079b76cd42b40f64d2da631b8e8102bffbef0"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a0b60e8d8dd3b143da1e644ce5f960159adfb0c5"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "c04268ac39fa37f975eea8a1ff6be6d0de57e38f328b611654b74bdcc2525105"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2c6166228480722b49f5d2c9b7ec7d4c5df6c578"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "5c3bbc38b94dc72a2ded1b76fca1bf5ce341c7f80530065817dfdb071540c35c"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "74a34a49af3e29635fee8dbddbb5b38e492a4cb9"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "74aa704129b627ef6b7b7746984725b0fb57d6da481c73b8f4c2d5997b4ec4d4"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "b6fcef2e6966481600562f377bf732f4ebee4f0a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "4b91ecd30fc99a67318ecfa3d186730a4924fb26b41e772070af56476fd3ccaf"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-linux-gnu-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "0c09450bffb8437e135be3cd977f894f4165163f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "46f0a7484601e7ae24c62a2920d990dea1be2bd543af4e8824f8a3544462e0d4"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-linux-gnu-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "0d350b2cf74df9d76c6795b28d3780a8014af846"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "c61ea1a40eef4ce5e6b75588a97048852d7dc0330d4800b17ef8dde4f954d2bd"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-linux-gnu-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "a5d8a67a6d348d9d7b685ff1ca7bcd4d0a8f10bd"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "269041098f94fb228db5837aa07db53645dbf96d1b92777a548d955c9a7e7e98"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-linux-musl-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "7db097f0437b7a4d5d2cbb7aa2039e1635d13479"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "a10dcb52c9a328c2bf85b55c48e53c56477225e05e480bed68a929fef2c1f33a"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-linux-musl-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "078f3024f96d84f250f24b7c936fae3d0f4f9bcb"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "dbdc722437d09de141a6d38311b6625c7e27d881af389852eeb95f999c64b8bd"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-linux-musl-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "f8e99495e4271753e8aee028c1cd5c358f4eb59c"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "7a492ba57151a60104ff930b380d2d41691989c24adb4f2accaaf835c1055dbf"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-w64-mingw32-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "256ffa728eab644f128469c30b8c7f4d70d8781b"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "28e8a1ba8ca8d5770b68a31569e030e0f525c7022731ddccb2618c99a1b6589d"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-w64-mingw32-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "i686"
+git-tree-sha1 = "76e5936cac1db90e529791d194e71b080725d999"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "5134e149e2675b99e0316e707459cde72849f6c879d99bce4dae6f428cf3884d"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.i686-w64-mingw32-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "powerpc64le"
+git-tree-sha1 = "34978c82f181360a405628c320e50be444f94ffd"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "1f64f1ee37410f5d6eb72c8bb0ebbace0b1b06189e8bbb684ab71c49872feb35"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "powerpc64le"
+git-tree-sha1 = "972f7c6cdff5afe28fd2510109d6d37b129b2f05"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "c409505bb78e76a47839ecab5aa9d8f4499fc7d000617949127048ba98de7411"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "powerpc64le"
+git-tree-sha1 = "6635d761a904411abcc055337761a177a954b5d6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "0d65f6c8332a6f5c0c28e9e005170e43fcab307fa495f5c7890184c1b316fd2b"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "b2c71fc71b68051a9077af5d3b6627c49176f958"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "f004ee47b6dea1e80d8b9df241b8da0432fd7649174810dbe8f3521f53a2c9cd"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "b4b9a1556cbf84de1fff6852e514cf1eb11861a3"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "fa3bd9f23e83c63d327d8b3d4ab8bedd30b1bbb4dbddb80acb7e482c164a7526"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "e8bc862c1d5c92eaf1b7222f8427573ee2cd7c5e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "55d25cfcb9b135fac7b2c06884a0ca751f1ce38c9f83becd6bc41e2d55bf2403"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "3a147afae568c6c623d75f6b2da716da6583a212"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "68741954d38654fdc15ada5d76d61b6cf2fc7af5faba4583aebc6dd53897a44b"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "717e84e0400c2ed555555f09f554e67911de3c73"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "c1c18822d2403b9733322d5b9b2b05199fd849759b86fe39d429145051efaa89"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "fa4cba18832ae1b9900308b0d194e2ae158adf26"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "b28c1ffbf647c7c7a1e067d829541b3385500ab0c542febbcfd44c50e7a82960"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "9447eb93ce8f0652fa11e351ea05cbf52f2042b3"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "48f9317545d9c254df2c0bc8a11b9542adfcb5774615816dc90688147b1f3460"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-linux-musl-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "8c96431a56f975a2c618737dc8540337e748eeef"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "cf52a2bacb6b6a55510bdc0823451212dba78bcab5e1ef57930e0c82fa4db1dc"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-linux-musl-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "2bc347b06bbc72aab86dc6c0932cf0359006b457"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "e86eb4df35d66f263a5122e94f23f22d3165d086af1f21efb9207ba0006ec9fd"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-linux-musl-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "a5a96deccae3cc5dbc9bc7051442c4a5b027d59e"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "8884e5be910fd2e8b7d766c5892762b4322c629227f6b8bd52f3330d4a9363ec"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "7727028061ff54232cf7850b64f196cf84280d98"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "e92d655507afe2618b67ec88ef6b63ac02b25d4b5beff56aaba1517830d823aa"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "70c02fc10c8c8c217e5726a31f24741b32b4bcb5"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "d08f45508553727f80a1ce19ef5dc8dfe1f9479b17a70731968c47aef233f005"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "904a7560337ec7cae3ae74e497b13be147f8ec64"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "70699883c8284b1a3f94c150b3aa3f68004884879b369c0661273be8cd077a5f"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "3442969cd84ff52a027264020381785594e2fcc5"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "82651f4e0a56aab792a0450d4bd39ca8d66f1fa66dc650bd22fe5fd06322d8b9"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[AcousticsToolbox]]
+arch = "x86_64"
+git-tree-sha1 = "dd1c9cb9ed2cf198fa2b1242e058d6deecc00668"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[AcousticsToolbox.download]]
+    sha256 = "8d75ac100d9b295f4c0b81365ed9d93e01a322d16bd6e27601ae26b7091e3e7e"
+    url = "https://github.com/JuliaBinaryWrappers/AcousticsToolbox_jll.jl/releases/download/AcousticsToolbox-v2020.11.4+0/AcousticsToolbox.v2020.11.4.x86_64-w64-mingw32-libgfortran5.tar.gz"
