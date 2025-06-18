@@ -1,6 +1,6 @@
 name = "AcousticsToolbox_jll"
 uuid = "6380ca6f-c335-511c-b45e-8a1ed8902ca7"
-version = "2024.12.25+0"
+version = "2025.6.18+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
